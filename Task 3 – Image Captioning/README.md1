@@ -1,0 +1,7 @@
+## 🧠 Caption Generation (Part 2)
+
+For simplicity, we simulate a small LSTM model and show how a sequence of tokens can represent a caption. In a full project, this would involve training on a large dataset like Flickr8k with many image-caption pairs.
+
+- A dummy vocabulary is used
+- An LSTM-based model is created
+- The caption is generated using hardcoded dummy input
